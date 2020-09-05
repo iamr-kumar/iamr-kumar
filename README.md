@@ -3,8 +3,10 @@
 
 ## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There **
 <p>
-    I am a Computer Science sophomore at Vellore Institute of Technology, Vellore.
-    I am a Software Engineer, an enthusiastic writer, a voracious reader and an avid learner.
+    I am a Computer Science sophomore at <em>Vellore Institute of Technology, Vellore</em>.
+    <br/>
+    I am a <b>Software Engineer</b>, an enthusiastic <b>writer</b>, a voracious <b>reader</b> and an avid <b>learner</b>.
+    <br/>
     I am continoulsy exploring new technologies that is driving the world,
     and currently improving my hands at the world of web!
 </p>
