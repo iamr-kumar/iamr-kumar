@@ -1,7 +1,7 @@
 
 <img align="center" src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/header.png?raw=true" width="800px">
 
-## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There **
+## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> Hello There
 <p>
     I am a Computer Science sophomore at <em>Vellore Institute of Technology, Vellore</em>.
     <br/>
@@ -11,7 +11,7 @@
     and currently improving my hands at the world of web!
 </p>
 
-### What I am upto
+### What I Am Upto
 
 - 🔭 I’m currently working on some React based projects.
 - 🌱 I’m currently learning MERN Stack and Android Development.
@@ -19,7 +19,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: I frequently visit the Outlands in Apex Legends
 
-### Tools and Technologies I use
+### Tools And Technologies I Use
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
