@@ -32,10 +32,9 @@
 
 ### Connect With Me <img src="https://github.com/Srezzx/Srezzx/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ritik-kumar-bba915187/) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/itsr_kumar) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/iamr_kumar/?hl=en) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/github-icon.svg" alt="Github logo" width="34">](https://github.com/iamr-kumar) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ritik.kumar006@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ritik-kumar-bba915187/) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/itsr_kumar) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/iamr_kumar/?hl=en) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/facebook.svg" alt="facebooklogo" width="32">](https://www.facebook.com/imritikkr/) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/github-icon.svg" alt="Github logo" width="34">](https://github.com/iamr-kumar) | [<img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ritik.kumar006@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 ### My Stats
-
 ![Ritik's github stats](https://github-readme-stats.vercel.app/api?username=iamr-kumar&show_icons=true&hide_border=true)
