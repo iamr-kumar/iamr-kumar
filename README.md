@@ -11,10 +11,10 @@
 
 ### What I am upto
 
-- 🔭 I’m currently working on some React based projects.
-- 🌱 I’m currently learning MERN Stack and Android Development.
+- 🔭 I’m currently working on some Android and Next.js projects.
+- 🌱 I’m currently learning Android Development and Next.js along with DSA.
 - 👯 I’m looking to collaborate on some great open source projects!
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Android and Next.js projects
 - ⚡ Fun fact: I frequently visit the Outlands in Apex Legends
 
 ### Tools and Technologies I use
