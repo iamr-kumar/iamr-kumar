@@ -11,10 +11,10 @@
 
 ### What I am upto
 
-- 🔭 I’m currently working on some Android and Next.js projects.
+- 🔭 I’m currently working on some Flutter and MER(N)N stack projects.
 - 🌱 I’m currently learning Flutter and Next.js along with DSA.
 - 👯 I’m looking to collaborate on some great open source projects!
-- 🤔 I’m looking for help with Flutter and Next.js projects
+- 🤔 I’m looking for help with Flutter and Placement preparations
 - ⚡ Fun fact: I frequently visit the Outlands in Apex Legends
 
 ### Tools and Technologies I use
