@@ -1,7 +1,7 @@
 
 <img align="center" src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/header.png?raw=true" width="800px">
 
-## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There **
+## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There**
 <p>
     I am a Computer Science sophomore at Vellore Institute of Technology, Vellore.
     I am a Software Engineer, an enthusiastic writer, a voracious reader and an avid learner.
