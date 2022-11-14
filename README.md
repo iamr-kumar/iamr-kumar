@@ -3,18 +3,18 @@
 
 ## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There**
 <p>
-    I am a Computer Science sophomore at Vellore Institute of Technology, Vellore.
+    I am a final year CS undergrad student at Vellore Institute of Technology, Vellore.
+    I am an ex-Intern @Microsoft IDC.
     I am a Software Engineer, an enthusiastic writer, a voracious reader and an avid learner.
-    I am continoulsy exploring new technologies that is driving the world,
-    and currently improving my hands at the world of web!
+    I am currently diving into the world of cloud native and cross platform applications.
 </p>
 
 ### What I am upto
 
-- 🔭 I’m currently working on some Flutter and MER(N)N stack projects.
-- 🌱 I’m currently learning Flutter and Next.js along with DSA.
+- 🔭 I’m currently working on some Flutter projects.
+- 🌱 I’m currently learning Flutter and Docker.
 - 👯 I’m looking to collaborate on some great open source projects!
-- 🤔 I’m looking for help with Flutter and Placement preparations
+- 🤔 I’m looking for help with Flutter and Cloud Native
 - ⚡ Fun fact: I frequently visit the Outlands in Apex Legends
 
 ### Tools and Technologies I use
