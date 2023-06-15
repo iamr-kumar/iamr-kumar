@@ -5,15 +5,14 @@
 <p>
     I am an Software Engineer at Microsoft.
     I am a recent CS grad from Vellore Institute of Technology, Vellore.
-    I am a Software Engineer, an enthusiastic writer, a voracious reader and an avid learner.
-    I am currently diving into the world of cloud native and cross platform applications.
+    I love to read, write and watch anime.
 </p>
 
 ### What I am upto
 
 - 🔭 I’m currently working on some cool open source projects.
 - 🌱 I’m currently learning backend development with Golang.
-- ⚡ Fun fact: Books amuse me
+- ⚡ Fun fact: Books are my happy place.
 
 ### Tools and Technologies I use
 
