@@ -3,7 +3,7 @@
 
 ## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There**
 <p>
-    I am an Software Engineer at Microsoft.
+    I am a Software Engineer at Microsoft.
     I am a recent CS grad from Vellore Institute of Technology, Vellore.
     I love to read, write and watch anime.
 </p>
