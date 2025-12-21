@@ -4,15 +4,16 @@
 ## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There**
 <p>
     I am a Software Engineer at Microsoft.
-    I am a recent CS grad from Vellore Institute of Technology, Vellore.
+    At work, I build systems that help run Azure PostgreSQL.
+    At leisure, I learn and experiment with complex (and simple) backend components.
     I love to read, write and watch anime.
 </p>
 
 ### What I am upto
 
-- 🔭 I’m currently working on some cool open source projects.
-- 🌱 I’m currently learning backend development with Golang.
-- ⚡ Fun fact: Books are my happy place.
+- 🔭 Trying to build a simple LSM-Tree based database, based off of notes I took from DDIA.
+- 🌱 Trying to learn about various nuances that systems running at scale use.
+- ⚡ Exploring the cool AI stuff
 
 ### Languages I use
 
@@ -64,3 +65,4 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamr-kumar&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamr-kumar&theme=tokyonight" alt="Ritik Kumar's GitHub Streak" />
 </a>
+
