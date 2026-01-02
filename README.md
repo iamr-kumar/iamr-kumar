@@ -56,5 +56,12 @@
 |:---:|:---:|:---:|:---:|:---:|
 
 
+<strong><h3> My Top Lanaguages </h3></strong>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamr-kumar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<strong><h3> My GitHub Stats </h3></strong>
+<a align="center" href="https://github.com/iamr-kumar">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamr-kumar&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamr-kumar&theme=tokyonight" alt="Ritik Kumar's GitHub Streak" />
+</a>
