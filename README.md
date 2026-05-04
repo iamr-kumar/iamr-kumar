@@ -3,8 +3,8 @@
 
 ## <img src="https://github.com/iamr-kumar/iamr-kumar/blob/master/assets/wave.gif" width="29px"> **Hello There**
 <p>
-    I am a Software Engineer at Microsoft.
-    At work, I build systems that help run Azure PostgreSQL.
+    I am a Software Engineer 2 at Uber.
+    At work, I build systems that help improve your ride experience.
     At leisure, I learn and experiment with complex (and simple) backend components.
     I love to read, write and watch anime.
 </p>
